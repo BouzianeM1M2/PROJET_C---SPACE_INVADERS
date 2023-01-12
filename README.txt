@@ -1,4 +1,6 @@
-Space Invaders
+#Space Invaders 
+
+Nous avons réalisé se projet en groupe de 3 lors de notre cursus à l'ESIEA
 
 Le jeu a été conçu pour être lancé en plein écran sur le terminal.
 Pour que le rendu du jeu soit meilleur, veuillez lancer le jeu en plein écran s’il vous plaît. 
